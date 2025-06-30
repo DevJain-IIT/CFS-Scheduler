@@ -1,0 +1,13 @@
+12
+WUDFHost.exe         100      1
+taskhostw.exe        50      -1
+sihost.exe           70       0
+smartscreen.exe      40       1  
+SearchApp.exe        45       1   
+Runtime.exe          100     -1  
+Locator.exe          80       0  
+Chrome.exe           150      1 
+audiodg.exe          110      0 
+Calculator.exe       60      -1
+armsvc.exe           78       1         
+conhost.exe          68       0
